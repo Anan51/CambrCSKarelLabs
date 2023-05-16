@@ -8,4 +8,4 @@ for i in N*15:
 for i in array:
   if i == "Moo":
     array.pop(i)
-return array[N]
+print(array[N])
